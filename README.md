@@ -1,4 +1,4 @@
-### Hello
+### Hello!
 
 <a rel="me" href="https://mastodon.social/@FireFragment">Mastodon</a>
 
